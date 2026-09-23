@@ -1,0 +1,6 @@
+[submodule "Mfp-Scraper"]
+	path = Mfp-Scraper
+	url = https://github.com/samscyber/Mfp-Scraper.git
+[submodule "GoogleHealthDataRetriever"]
+	path = GoogleHealthDataRetriever
+	url = https://github.com/samscyber/GoogleHealthDataRetriever.git
